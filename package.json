@@ -1,0 +1,14 @@
+{
+  "name": "user-record-service",
+  "version": "1.0.0",
+  "description": "holds mappings between users and audio records",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen McGuckin",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.434.0"
+  }
+}
